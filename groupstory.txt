@@ -1,13 +1,13 @@
-Title: 
+Title: The True Story of Goldilocks
 
-Line 1: 
+Line 1: After the bears were hungry they decided to take a nap. 
 
-Line 2: 
+Line 2: But Goldilocks came into the innovation center to write 6 lines of code.  
 
-Line 3: 
+Line 3: Axel came in and said, "What are you doing here?"  
 
-Line 4: 
+Line 4: There are 3 bears that wandered in to eat all the snacks and taking naps.  
 
-Line 5:
+Line 5:Goldilocks screamed and ran out the door.  
 
-Line 6: 
+Line 6: Never to be heard from again.... except GitHub repositories.... 
