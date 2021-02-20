@@ -1,6 +1,6 @@
-Title: 
+Title: Learning the Crazy World of GitHub
 
-Line 1: 
+Line 1: I am grateful to have the opportunity to learn GitHub and use in my High School CS classes.
 
 Line 2: 
 
