@@ -1,13 +1,13 @@
-Title: 
+Title: Three Bear
 
-Line 1: 
+Line 1: Once upon a time, there was 3 bear
 
-Line 2: 
+Line 2: A papa bear
 
-Line 3: 
+Line 3: A mama bear
 
-Line 4: 
+Line 4: and a baby bear
 
-Line 5:
+Line 5: They were very hungry
 
-Line 6: 
+Line 6: and very tired
